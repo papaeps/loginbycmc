@@ -37,13 +37,6 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
-    },
-    "DPMods-TP69BD": {
-      "hwid": "FBB04CB9435C771E",
-      "expireDate": "2026-05-12",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
     }
   }
 }
