@@ -29,6 +29,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "DPMods-LZB4R0": {
+      "hwid": "FBB04CB9435C771E",
+      "expireDate": "2026-05-11",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "CMC"
     }
   }
 }
