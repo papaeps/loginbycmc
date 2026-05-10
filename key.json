@@ -36,6 +36,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "CMC"
+    },
+    "DPMods-KTYH9B": {
+      "hwid": "FBB04CB9435C771E",
+      "expireDate": "2026-05-11",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "CMC"
     }
   }
 }
